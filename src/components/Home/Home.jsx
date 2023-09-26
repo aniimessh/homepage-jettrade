@@ -19,7 +19,7 @@ export const Home = () => {
             </marquee>
           </div>
           WELCOME TO
-          <p>JETTRADE FX</p>
+          <p className="jettrade-fx">JETTRADE FX</p>
           <div className="jettrade">
             <p>ADVANCE & SMART FOREX TRADING PLATFORM</p>
           </div>
